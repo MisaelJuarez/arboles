@@ -1,0 +1,9 @@
+.circulo {
+    width: 70px;
+    height: 70px;
+    background-color: rgb(37, 37, 252);
+    border-radius: 50%;
+    color: white;
+    font-size: 45px;
+    border: 3px white solid;
+}
